@@ -1,0 +1,17 @@
+.buttons {
+  position: absolute;
+  top: 10vh;
+  right: 1vw;
+  z-index: 1;
+  display: block;
+  font-weight: bolder;
+}
+.threeD {
+  display: inline-block;
+  padding-left: 50px;
+  position: absolute;
+  top: 80vh;
+  right: 1vw;
+  z-index: 1;
+  font-weight: bolder;
+}
